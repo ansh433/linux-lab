@@ -1,0 +1,3 @@
+Linux is the base of devops
+logs help debug services
+logs help debug services

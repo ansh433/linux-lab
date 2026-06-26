@@ -1,0 +1,9 @@
+2026-06-24 10:01:01 INFO server started port=3000
+2026-06-24 10:01:05 INFO connected database=db1
+2026-06-24 10:02:10 WARN slow query duration=1200ms route=/users
+2026-06-24 10:03:12 ERROR database timeout route=/orders status=500
+2026-06-24 10:04:00 INFO request completed route=/health status=200
+2026-06-24 10:05:18 ERROR payment failed route=/pay status=502
+2026-06-24 10:06:44 WARN high memory usage memory=82%
+2026-06-24 10:07:01 INFO request completed route=/products status=200
+2026-06-24 10:08:23 ERROR auth token invalid route=/login status=401
